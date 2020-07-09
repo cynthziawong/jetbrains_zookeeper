@@ -8,7 +8,7 @@ This project is aimed at our beginners. It helps you understand some syntax basi
 
 # Project Result
 
-![alt text](https://stepik.org/media/attachments/lesson/308747/demonstration.mp4)
+<img width="478" alt="Screen Shot 2020-07-08 at 9 15 18 PM" src="https://user-images.githubusercontent.com/43900263/86985881-495bde00-c160-11ea-9af2-5534fe425891.png">
 
 
 
