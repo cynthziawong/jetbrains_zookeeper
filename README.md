@@ -26,7 +26,7 @@ Your tool should provide a report on an animal if the user inputs a specific enc
 
 Once the user is done with viewing the report, they can input "exit" to exit out of the application.
 
-#### Project Result
+### Application Result
 
 <img width="478" alt="Screen Shot 2020-07-08 at 9 15 18 PM" src="https://user-images.githubusercontent.com/43900263/86985881-495bde00-c160-11ea-9af2-5534fe425891.png">
 
