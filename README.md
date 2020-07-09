@@ -9,8 +9,8 @@ This project is aimed at our beginners. It helps you understand:
 - Syntax basics
 - Variables
 - Data storage types
-   - Lists
-   - While loops
+- Lists
+- While loops
 
 ### Project Result
 
